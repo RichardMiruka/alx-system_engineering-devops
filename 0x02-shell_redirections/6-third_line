@@ -1,5 +1,4 @@
 #!/bin/bash
-# Get the third line of the file
 line=$(sed -n '3p' iacta)
-# Display the third line
 echo $line
+
