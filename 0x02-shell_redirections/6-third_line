@@ -1,4 +1,2 @@
 #!/bin/bash
-line=$(sed -n '3p' iacta)
-echo $line
-
+head -n 3 iacta | tail -1
