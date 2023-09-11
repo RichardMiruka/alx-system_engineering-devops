@@ -5,7 +5,7 @@
 
 ## Resources
 
-* [What Is “The Shell”?]()
+* [What Is “The Shell”?](https://intranet.alxswe.com/rltoken/vwO91sqNBgRL03BLu-ueiA)
 * [Navigation]()
 * [Looking Around]()
 * [A Guided Tour]()
