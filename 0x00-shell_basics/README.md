@@ -12,7 +12,7 @@
 * [Manipulating Files](https://intranet.alxswe.com/rltoken/olv-1tj4d1LA57Z0PrLNvw)
 * [Working With Commands](https://intranet.alxswe.com/rltoken/zUtux3Pm0BkvtwXzbTtkmA)
 * [Reading Man pages](https://intranet.alxswe.com/rltoken/rddGdsqLf8_kRzp12RaD4A)
-* [Keyboard shortcuts for Bash]()
+* [Keyboard shortcuts for Bash](https://intranet.alxswe.com/rltoken/AGxMxuS5IeW8VmEvJyhwvw)
 * [LTS]()
 * [Shebang]()
 
