@@ -17,7 +17,7 @@
 * [Shebang](https://intranet.alxswe.com/rltoken/cE8ZA3kgEaFhB-IDNv31bQ)
 
 ### man or help:
-cd
+* cd
 ls
 pwd
 less
