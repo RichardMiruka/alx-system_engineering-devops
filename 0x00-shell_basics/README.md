@@ -7,7 +7,7 @@
 
 * [What Is “The Shell”?](https://intranet.alxswe.com/rltoken/vwO91sqNBgRL03BLu-ueiA)
 * [Navigation](https://intranet.alxswe.com/rltoken/iblidp7yp6i-QpT8rDXHaA)
-* [Looking Around]()
+* [Looking Around](https://intranet.alxswe.com/rltoken/xEKUCnQsMH0esQ6fJU5vLA)
 * [A Guided Tour]()
 * [Manipulating Files]()
 * [Working With Commands]()
