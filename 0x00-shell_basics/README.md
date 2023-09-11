@@ -14,7 +14,7 @@
 * [Reading Man pages](https://intranet.alxswe.com/rltoken/rddGdsqLf8_kRzp12RaD4A)
 * [Keyboard shortcuts for Bash](https://intranet.alxswe.com/rltoken/AGxMxuS5IeW8VmEvJyhwvw)
 * [LTS](https://wiki.ubuntu.com/LTS)
-* [Shebang]()
+* [Shebang](https://intranet.alxswe.com/rltoken/cE8ZA3kgEaFhB-IDNv31bQ)
 
 ### man or help:
 cd
