@@ -6,3 +6,5 @@
 
 ## Resources
 [Permissions](https://intranet.alxswe.com/rltoken/aQmRB6ms-SDHUhqY0Rsa3g)
+
+## Learning Objectives
