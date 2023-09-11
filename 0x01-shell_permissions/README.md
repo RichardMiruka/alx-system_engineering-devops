@@ -18,7 +18,7 @@
 * How to run a command with root privileges
 * How to change user ID or become superuser
 ## Other Man Pages
-How to create a user
+* How to create a user
 How to create a group
 How to print real and effective user and group IDs
 How to print the groups a user is in
