@@ -8,3 +8,17 @@
 * [Shell initialization files](https://intranet.alxswe.com/rltoken/tqud57kjsSYgDfeZDlwl3g)
 * [The alias Command](https://intranet.alxswe.com/rltoken/1Z3nYPjmidqQJXcWQ9Fkug)
 * [Technical Writing](https://intranet.alxswe.com/rltoken/wYrZr3t3DeAE8PpYHYWGiw)
+
+### man or help:
+
+* printenv
+* set
+* unset
+* export
+* alias
+* unalias
+* .
+* source
+* printf
+  
+## Learning Objectives
