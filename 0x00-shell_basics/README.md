@@ -18,7 +18,7 @@
 
 ### man or help:
 * cd
-ls
+* ls
 pwd
 less
 file
