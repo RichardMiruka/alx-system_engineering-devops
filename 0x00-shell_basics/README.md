@@ -59,27 +59,33 @@
 * How do you use options and arguments with commands
 * Understand the ls long format and how to display it
 * [A Guided Tour](https://intranet.alxswe.com/rltoken/HUhQ73fFR1GOC5nb4r-mDw)
-What does the [ln]() command do
-What do you find in the most common/important directories
-What is a symbolic link
-What is a hard link
-What is the difference between a hard link and a symbolic link
-Manipulating Files
-What do the commands cp, mv, rm, mkdir do
-What are wildcards and how do they work
-How to use wildcards
-Working with Commands
-What do type, which, help, man commands do
-What are the different kinds of commands
-What is an alias
-When do you use the command help instead of man
-Reading Man Pages
-How to read a man page
-What are man page sections
-What are the section numbers for User commands, System calls and Library functions
-Keyboard Shortcuts for Bash
-Common shortcuts for Bash
-LTS
+* What does the [ln]() command do
+* What do you find in the most common/important directories
+* What is a symbolic link
+* What is a hard link
+* What is the difference between a hard link and a symbolic link
+
+### Manipulating Files
+* What do the commands cp, mv, rm, mkdir do
+* What are wildcards and how do they work
+* How to use wildcards
+
+### Working with Commands
+* What do type, which, help, man commands do
+* What are the different kinds of commands
+* What is an alias
+* When do you use the command help instead of man
+
+### Reading Man Pages
+* How to read a man page
+* What are man page sections
+* What are the section numbers for User commands, System calls and Library functions
+
+### Keyboard Shortcuts for Bash
+*  Common shortcuts for Bash
+
+### LTS
 What does LTS mean?
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg)
 
 This is my third ALX project
