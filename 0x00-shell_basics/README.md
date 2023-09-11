@@ -85,7 +85,7 @@
 *  Common shortcuts for Bash
 
 ### LTS
-What does LTS mean?
+* What does LTS mean?
+  
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/205/image.jpg)
 
-This is my third ALX project
