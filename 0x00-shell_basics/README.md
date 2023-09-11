@@ -9,7 +9,7 @@
 * [Navigation](https://intranet.alxswe.com/rltoken/iblidp7yp6i-QpT8rDXHaA)
 * [Looking Around](https://intranet.alxswe.com/rltoken/xEKUCnQsMH0esQ6fJU5vLA)
 * [A Guided Tour](https://intranet.alxswe.com/rltoken/HUhQ73fFR1GOC5nb4r-mDw)
-* [Manipulating Files]()
+* [Manipulating Files](https://intranet.alxswe.com/rltoken/olv-1tj4d1LA57Z0PrLNvw)
 * [Working With Commands]()
 * [Reading Man pages]()
 * [Keyboard shortcuts for Bash]()
