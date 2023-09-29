@@ -40,6 +40,7 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 - What are the 2 signals that cannot be ignored
 
  [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
+ [ignoring shellcheck error here](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
 
 ### man or help:
 
