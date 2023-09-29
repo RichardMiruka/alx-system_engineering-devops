@@ -41,3 +41,5 @@ ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell
 As a Full-Stack Software Engineer, you have to master the art of parsing log files. Today we will do a simple parsing of [Apache log access files.](http://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/80/apache-access.log)
 
 Write a Bash script that displays the visitor IP along with the [HTTP status code](https://intranet.alxswe.com/rltoken/7de-UBmf8xgwH1iSwzX1MA) from the Apache log file.
+
+[apache-access.log file](https://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/80/apache-access.log)
