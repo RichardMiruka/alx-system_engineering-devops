@@ -55,5 +55,5 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 * [ignoring shellcheck error](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
 * [&](https://intranet.alxswe.com/rltoken/R4YSgPT1k0PhWCrB0TYzoQ)
 * [init.d](https://intranet.alxswe.com/rltoken/sVqN4oNYYO6ojS4ctT02Jw)
-* [Daemon](https://intranet.alxswe.com/rltoken/kCoQ5aYO3towdDQFVPcfNg)
+* [Daemon](https://intranet.alxswe.com/rltoken/kCoQ5aYO3towdDQFVPcfNg) Programs that are detached from the terminal and running in the background are called daemons or processes, need to be managed. The general minimum set of instructions is: start, restart and stop. The most popular way of doing so on Unix system is to use the init scripts.
 * [Positional parameters](https://intranet.alxswe.com/rltoken/TJ2rxUwRsnM1mJQHSCnOQA)
