@@ -28,4 +28,5 @@ Scripting
 * if
 
 ## Read more 
-* [Shellcheck](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) - ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts
+* [Shellcheck](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) 
+ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts. It is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. 
