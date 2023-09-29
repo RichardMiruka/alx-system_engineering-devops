@@ -30,5 +30,8 @@ Scripting
 ## Read more 
 * [Shellcheck](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) 
 * [How to install ShellCheck](https://intranet.alxswe.com/rltoken/jbz0_-i3TV3WpKgxhyrtpA)
-  
+
 ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts. It is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. 
+
+* [IFS (internal field separator)](https://intranet.alxswe.com/rltoken/8VeAz2XHCtuECDJ0PfMNIg)
+* [Understanding /etc/passwd](https://intranet.alxswe.com/rltoken/jm2-sSa3VlvI4zgRdreAsg)
