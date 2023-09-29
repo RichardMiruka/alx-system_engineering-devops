@@ -35,3 +35,9 @@ ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell
 
 * [IFS (internal field separator)](https://intranet.alxswe.com/rltoken/8VeAz2XHCtuECDJ0PfMNIg)
 * [Understanding /etc/passwd](https://intranet.alxswe.com/rltoken/jm2-sSa3VlvI4zgRdreAsg)
+
+* [Apache](https://intranet.alxswe.com/rltoken/JfEwR2qcLdKkoihJNDZR0g) is among the most popular web servers in the world, serving 50% of all active websites, no doubt that you will have to interact with it within your career.
+
+As a Full-Stack Software Engineer, you have to master the art of parsing log files. Today we will do a simple parsing of [Apache log access files.](http://intranet-projects-files.s3.amazonaws.com/holbertonschool-sysadmin_devops/80/apache-access.log)
+
+Write a Bash script that displays the visitor IP along with the [HTTP status code](https://intranet.alxswe.com/rltoken/7de-UBmf8xgwH1iSwzX1MA) from the Apache log file.
