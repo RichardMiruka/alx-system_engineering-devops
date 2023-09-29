@@ -39,10 +39,6 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 - What is a signal
 - What are the 2 signals that cannot be ignored
 
- [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
- 
- [ignoring shellcheck error](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
-
 ### man or help:
 
 - ps
@@ -51,3 +47,13 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 - kill
 - exit
 - trap
+
+## More to Read on
+
+
+* [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
+* [ignoring shellcheck error](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
+* [&](https://intranet.alxswe.com/rltoken/R4YSgPT1k0PhWCrB0TYzoQ)
+* [init.d](https://intranet.alxswe.com/rltoken/sVqN4oNYYO6ojS4ctT02Jw)
+* [Daemon](https://intranet.alxswe.com/rltoken/kCoQ5aYO3towdDQFVPcfNg)
+* [Positional parameters](https://intranet.alxswe.com/rltoken/TJ2rxUwRsnM1mJQHSCnOQA)
