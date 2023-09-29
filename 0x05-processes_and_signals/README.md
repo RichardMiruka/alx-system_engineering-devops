@@ -41,7 +41,7 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 
  [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
  
- [ignoring shellcheck error here](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
+ [ignoring shellcheck error](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
 
 ### man or help:
 
