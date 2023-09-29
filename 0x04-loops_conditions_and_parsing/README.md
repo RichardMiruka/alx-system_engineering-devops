@@ -1,5 +1,8 @@
 # Loops, conditions and parsing
-
+DevOps
+Shell
+Bash
+Scripting
 ## Resources
 * [Loops sample](https://intranet.alxswe.com/rltoken/wT98UJfv_E2tk4yP9PcLLw)
 * [Variable assignment and arithmetic](https://intranet.alxswe.com/rltoken/olvOKX699pq50rkHRE5cSA)
