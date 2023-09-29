@@ -26,3 +26,6 @@ Scripting
 * while
 * until
 * if
+
+## Read more 
+* [Shellcheck](https://intranet.alxswe.com/rltoken/joK6l_yEZ9N7T0GQ1RDjLA) ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts
