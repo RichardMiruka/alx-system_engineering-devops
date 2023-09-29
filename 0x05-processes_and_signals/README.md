@@ -24,9 +24,9 @@ Scripting
 
 ### man or help:
 
-> ps
-> pgrep
-> pkill
-> kill
-> exit
-> trap
+- ps
+- pgrep
+- pkill
+- kill
+- exit
+- trap
