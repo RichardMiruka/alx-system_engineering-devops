@@ -21,3 +21,12 @@ Scripting
 - What are the 2 signals that cannot be ignored
 
  [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
+
+### man or help:
+
+> ps
+> pgrep
+> pkill
+> kill
+> exit
+> trap
