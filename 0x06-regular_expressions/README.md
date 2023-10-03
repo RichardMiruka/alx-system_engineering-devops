@@ -11,3 +11,8 @@ A regular expression, commonly called a “regexp”, is a sequence of character
 * [Use a regular expression against a problem: now you have 2 problems](https://intranet.alxswe.com/rltoken/Vwm8lpMUGa4x_FBtlyUQ8g)
 * [Learn Regular Expressions with simple, interactive exercises]()
 * [Requirements](https://intranet.alxswe.com/rltoken/XsQ6rzS1uy-E6bnswUqIKg)
+
+## Background Context
+For this project, we have to build our regular expression using Oniguruma, a regular expression library that is used by Ruby by default. Note that other regular expression libraries sometimes have different properties.
+
+Because the focus of this exercise is to play with regular expressions (regex), here is the Ruby code that you should use, just replace the regexp part, meaning the code in between the //:
