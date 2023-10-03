@@ -3,6 +3,7 @@
 > DevOps
 
 ![](https://intranet.alxswe.com/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg)
+
 A regular expression, commonly called a “regexp”, is a sequence of characters that define a search pattern.  It is mainly for use in pattern matching with strings, or string matching (i.e. it operates like a “find and replace” command). While it is a very powerful tool, it is also very dangerous because of its complexity
 ## Resources
 * [Regular expression](https://intranet.alxswe.com/concepts/29) 
