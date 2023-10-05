@@ -27,18 +27,24 @@
 - How it is organized
 
 ### What is a LAN
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/44d12d5b-ba2f-4cac-8792-2980334613ec)
+
 - Typical usage
 - Typical geographical size
 ### What is a WAN
 - Typical usage
 - Typical geographical size
 ### What is the Internet
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/64e63787-3851-4f84-8c45-5b277dfaffdd)
+
 - What is an IP address
 - What are the 2 types of IP address
 - What is localhost
 - What is a subnet
 - Why IPv6 was created
 ### TCP/UDP
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/baf21537-2ff5-4b13-88b3-ed4b4c5617a5)
+
 - What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
 - What is the main difference between TCP and UDP
 - What is a port
