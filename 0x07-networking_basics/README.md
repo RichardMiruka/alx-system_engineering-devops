@@ -1,8 +1,36 @@
 # Networking basics #0
 > DevOps Network
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/4b995d4f8078b44afa968d68a98035d2bd7e8fac.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231005T062833Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=c4adf82b36415ecefd12a910c647d64959e25d2d6c36b02ba4a411ee04bf9283)
+## Resources
+* [OSI model](https://intranet.alxswe.com/rltoken/k2uCsynicuNbu1cAQhXqVQ)
+* [Different types of network](https://intranet.alxswe.com/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A)
+* [LAN network](https://intranet.alxswe.com/rltoken/en370-Hrwgi_GUvFcg3bKg)
+* [WAN network](https://intranet.alxswe.com/rltoken/Ah1EKqnINR85lM4P2WnLSw)
+* [Internet](https://intranet.alxswe.com/rltoken/Lwh9xQxFD4dWh5sIApXI1g)
+* [MAC address](https://intranet.alxswe.com/rltoken/j-Wp-YRvFTVP04SpIeRzHQ)
+* [What is an IP address](https://intranet.alxswe.com/rltoken/HaZZvrmGaQ3U7ZLDYgZb6w)
+* [Private and public address](https://intranet.alxswe.com/rltoken/OPJCZYuWSEXLIZOqU9Uc0A)
+* [IPv4 and IPv6](https://intranet.alxswe.com/rltoken/M8g-egWLlldTl6Y0QECdwA)
+* [Localhost](https://intranet.alxswe.com/rltoken/7lj-zoZQ7xFTkj4MTyos_g)
+* [TCP and UDP](https://intranet.alxswe.com/rltoken/uJbs8E9-FyATfsELpmtTIg)
+* [TCP/UDP ports List](https://intranet.alxswe.com/rltoken/4PYkqDfOvIZZb9aUPGOOzQ)
+* [What is ping /ICMP](https://intranet.alxswe.com/rltoken/3zBgO6r2M1Q8lUVt9g8aJw)
+* [Positional parameters](https://intranet.alxswe.com/rltoken/U5CMxsErz85edWap3fNEoQ)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231005T062833Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=86bc42ebedeb2a5bb172470f9a5e91bab699514df5ee43c091e8742a8d485d14)
-
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/0fc96bd99faa7941b18bcae4c5f90c6acd11791d.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231005%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231005T062833Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=686ac3065c6adad034180000aa6def286323a000e3c8734ae8ce5588533951ba)
+## Learning Objectives
+### OSI Model
+- What it is
+- How many layers it has
+- How it is organized
+### What is a LAN
+- Typical usage
+- Typical geographical size
+### What is a WAN
+- Typical usage
+- Typical geographical size
+### What is the Internet
+- What is an IP address
+- What are the 2 types of IP address
+- What is localhost
+- What is a subnet
+- Why IPv6 was created
