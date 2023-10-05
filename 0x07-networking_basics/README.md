@@ -42,6 +42,8 @@ Keep in mind that the OSI model is a concept, it’s not even tangible. The OSI 
 - Typical usage
 - Typical geographical size
 ### What is a WAN
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/a8b83be8-0585-4ca8-bad5-5a391c8c9943)
+
 - Typical usage
 - Typical geographical size
 ### What is the Internet
