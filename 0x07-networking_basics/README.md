@@ -24,6 +24,8 @@
 - What it is
 - How many layers it has
 - How it is organized
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/d55f78de-f467-4105-b2bf-775e353e3290)
+
 ### What is a LAN
 - Typical usage
 - Typical geographical size
