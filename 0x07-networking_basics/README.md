@@ -16,7 +16,8 @@
 * [TCP/UDP ports List](https://intranet.alxswe.com/rltoken/4PYkqDfOvIZZb9aUPGOOzQ)
 * [What is ping /ICMP](https://intranet.alxswe.com/rltoken/3zBgO6r2M1Q8lUVt9g8aJw)
 * [Positional parameters](https://intranet.alxswe.com/rltoken/U5CMxsErz85edWap3fNEoQ)
-
+![](![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/64ed3b54-0f68-46c6-82e1-8c58c941a86d)
+)
 ## Learning Objectives
 ### OSI Model
 - What it is
