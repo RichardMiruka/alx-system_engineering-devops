@@ -1,6 +1,7 @@
 # Networking basics #0
 > DevOps Network
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png)
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/32aa557c-2ff9-4fd1-83fc-b225f59fa579)
 ## Resources
 * [OSI model](https://intranet.alxswe.com/rltoken/k2uCsynicuNbu1cAQhXqVQ)
 * [Different types of network](https://intranet.alxswe.com/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A)
