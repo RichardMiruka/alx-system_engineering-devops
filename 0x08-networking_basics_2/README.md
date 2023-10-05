@@ -15,7 +15,7 @@
 - What is /etc/hosts
 - How to display your machine’s active network interfaces
 
-### man or help:
+## man or help:
 * ifconfig
 * telnet
 * nc
