@@ -1,5 +1,6 @@
 # Networking basics #0
 > DevOps Network
+
 ![](<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png)
 ## Resources
 * [OSI model](https://intranet.alxswe.com/rltoken/k2uCsynicuNbu1cAQhXqVQ)
