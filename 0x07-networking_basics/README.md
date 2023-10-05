@@ -1,6 +1,6 @@
 # Networking basics #0
 > DevOps Network
-![](<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231005%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20231005T062833Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=86bc42ebedeb2a5bb172470f9a5e91bab699514df5ee43c091e8742a8d485d14" alt="" loading="lazy" style="">)
+![](<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/4e6a0ad87a65d7054248.png)
 ## Resources
 * [OSI model](https://intranet.alxswe.com/rltoken/k2uCsynicuNbu1cAQhXqVQ)
 * [Different types of network](https://intranet.alxswe.com/rltoken/XW3ZGm5Ya_a8XVDXcAKT_A)
