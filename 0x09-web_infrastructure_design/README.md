@@ -10,3 +10,4 @@ For this project, these are the concepts:
 * [Network basics](https://intranet.alxswe.com/concepts/33)
 * [Load balancer](https://intranet.alxswe.com/concepts/46)
 * [Server](https://intranet.alxswe.com/concepts/67)
+* [ LAMP stack.](https://intranet.alxswe.com/rltoken/YVDX0XsC6XHp0nmezvT9vQ)
