@@ -13,3 +13,5 @@ CI/CD
 * [Puppet’s Declarative Language: Modeling Instead of Scripting](https://intranet.alxswe.com/rltoken/0V2fBdafkfKPMxA1umea3Q)
 * [Puppet lint](https://intranet.alxswe.com/rltoken/CRUMeEMdcX-UtbWsUM9xLQ)
 * [Puppet emacs mode](https://intranet.alxswe.com/rltoken/MzHXCntAkPzOqMnI6_rpWQ)
+
+Read on an auto-remediation tool called [Skynet](https://intranet.alxswe.com/rltoken/0zbIzBqH_ktMmRQvJwZs2A) that monitored, scaled and fixed Cloud infrastructure.
