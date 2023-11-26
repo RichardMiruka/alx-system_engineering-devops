@@ -27,6 +27,7 @@ The project covers;
 -> nginx configuration; /etc/default/nginx, puppet, puppet-lint, shell, linux: /etc/security/limits.conf
 
 # :man: Author and Credits.
+
 This project was done by [SE Richard Miruka](https://github.com/RichardMiruka). Feel free to get intouch with me;
 
 :iphone: WhatsApp [+254700129706](https://wa.me/254700129706)
