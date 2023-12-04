@@ -17,7 +17,10 @@ CI/CD
 Read on an auto-remediation tool called [Skynet](https://intranet.alxswe.com/rltoken/0zbIzBqH_ktMmRQvJwZs2A) that monitors, scales, and fixes Cloud infrastructure.
 
 ## How to Install puppet
-$ apt-get install -y ruby=1:2.7+1 --allow-downgrades
-$ apt-get install -y ruby-augeas
-$ apt-get install -y ruby-shadow
-$ apt-get install -y puppet
+* $ apt-get install -y ruby=1:2.7+1 --allow-downgrades
+* $ apt-get install -y ruby-augeas
+* $ apt-get install -y ruby-shadow
+* $ apt-get install -y puppet
+
+## How to Install puppet-lint
+* $ gem install puppet-lint
