@@ -20,4 +20,4 @@
 ### For reference:
 
 * [RFC 7231 (HTTP/1.1)](https://intranet.alxswe.com/rltoken/BGa6RrS0dnM6EdBGS_ZDUw)
-* [RFC 7540 (HTTP/2)]https://intranet.alxswe.com/rltoken/IZ2fyYn1qNZ9RXXsg5vG1g()
+* [RFC 7540 (HTTP/2)](https://intranet.alxswe.com/rltoken/IZ2fyYn1qNZ9RXXsg5vG1g())
