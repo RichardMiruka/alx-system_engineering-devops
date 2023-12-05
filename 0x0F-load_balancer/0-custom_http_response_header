@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+# scrip to install nginx on a server
+apt-get update
+apt-get install -y nginx
+mkdir -p /etc/nginx/html
+echo 'Hello World!' > /etc/nginx/html/index.html
+echo "Ceci n'est pas une page" > /etc/nginx/html/404.html
+
+printf %s "server {
+  listen 80;
+  listen [::]:80 default_server;
+  add_header X-Served-By $(hostname);
+  root   /etc/nginx/html;
+  index  index.htm index.html;
+
+  location /redirect_me {
+    return 301 https://www.github.com/RichardMiruka/;
+  }
+
+  error_page 404 /404.html;
+  location /404.html {
+    root /etc/nginx/html;
+    internal;
+  }
+}" > /etc/nginx/sites-available/default
+
+service nginx restart
