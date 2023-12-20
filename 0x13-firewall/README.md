@@ -5,3 +5,7 @@
 For this project, we expect you to look at this concept:
 
 [Web stack debugging](https://intranet.alxswe.com/concepts/68)
+
+## Resources
+
+* [What is a firewall](https://intranet.alxswe.com/rltoken/vjB4LyHRdtEImzZcuD89ZQ)
