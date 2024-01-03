@@ -26,3 +26,5 @@
 * Pythonic Function name style
 * Pythonic Constant name style
 * Significance of CapWords or CamelCase in Python
+
+* [REST API](https://intranet.alxswe.com/rltoken/7cr7aLYdaWAZWBKrBKS12A)
