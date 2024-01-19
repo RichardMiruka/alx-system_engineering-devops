@@ -21,3 +21,6 @@
 
   ![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/6c7e27cf-b5eb-46ed-91e6-d1a3ebf240bb)
 
+* [Sign up for Datadog and install datadog-agent](https://intranet.alxswe.com/rltoken/Ufs6rTHMET5LB1Uoylx0nw)
+* [Datadog’s API](https://intranet.alxswe.com/rltoken/QhlPcQqUocwWcOkZ9s4mWQ)
+* [Monitor some metrics - You can read about the various System metrics that you can monitor here](https://intranet.alxswe.com/rltoken/4RPOEVDTqKXuvyU4Gkj2Bw) 
