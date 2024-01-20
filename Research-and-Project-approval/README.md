@@ -28,4 +28,9 @@
   * Define 3-5 detailed user stories that will be satisfied when your MVP is complete: [user stories](https://intranet.alxswe.com/rltoken/MP_p24nJnvQxErkP0IpZtA)
   *  Also note [some pitfalls](https://intranet.alxswe.com/rltoken/FLr9JQQFgm0zz3ZEfqKCwA) of creating user stories that are too general.
  
-    
+  ## Mockups
+
+  ![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/775c7001-85dc-499f-8eef-961c7b4b6c28)
+
+  * Use a prototyping tool, like [Balsamiq](https://intranet.alxswe.com/rltoken/gr0KAmc8Pgs7IMawbJtlIQ), to draft your user-facing visual interfaces.
+
