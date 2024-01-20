@@ -28,7 +28,13 @@
   * Define 3-5 detailed user stories that will be satisfied when your MVP is complete: [user stories](https://intranet.alxswe.com/rltoken/MP_p24nJnvQxErkP0IpZtA)
   *  Also note [some pitfalls](https://intranet.alxswe.com/rltoken/FLr9JQQFgm0zz3ZEfqKCwA) of creating user stories that are too general.
  
-  # Research & Project approval (Part 3)
+  ## Mockups
+
+  ![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/775c7001-85dc-499f-8eef-961c7b4b6c28)
+
+  * Use a prototyping tool, like [Balsamiq](https://intranet.alxswe.com/rltoken/gr0KAmc8Pgs7IMawbJtlIQ), to draft your user-facing visual interfaces.
+
+# Research & Project approval (Part 3)
 
 The Portfolio Project will be a project you will showcase on your resumé, online, and during interviews. A completed Portfolio Project will consist of:
 
@@ -40,10 +46,60 @@ The Portfolio Project will be a project you will showcase on your resumé, onlin
 
 ![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/3cb9e7be-4519-4e3c-89e1-41ce1652c41e)
 
- 
-  ## Mockups
+- [Trello](https://intranet.alxswe.com/rltoken/nHPXY_uuCJ8h-diK1DoyJw) is a free project management software that uses a [kanban](https://intranet.alxswe.com/rltoken/WBoV3Vg98rcrkt2AIa524w) board to visually track the implementation of a feature set from “to-do” to “done”. Trello makes it easy to assign tasks, collaborate and collect notes in a central location.
 
-  ![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/775c7001-85dc-499f-8eef-961c7b4b6c28)
+- There are other project management tools, such as [Asana](https://intranet.alxswe.com/rltoken/H9I1VYSF8kdMXVuo9d9iPQ), [Airtable](https://intranet.alxswe.com/rltoken/Q8gCI02YehO3Z_vWdDvllg), and [Jira](https://intranet.alxswe.com/rltoken/Vx-2zvCZYFhArPb1v4X7aQ). Trello has been selected for ease of use and ability to visualize progress.
 
-  * Use a prototyping tool, like [Balsamiq](https://intranet.alxswe.com/rltoken/gr0KAmc8Pgs7IMawbJtlIQ), to draft your user-facing visual interfaces.
+## Column Headers
+
+Set up your Trello board with the following columns:
+
+* Proposed
+* Approved
+* In Progress
+* Dev Complete
+* Tested
+* Deployed
+
+Example:
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/45e2217d-8bd8-4a46-b47c-7606c0389a15)
+
+## Create Cards
+
+In the “proposed” column, create cards to fully represent the engineering tasks necessary to implement to satisfy the User Stories defined for your MVP. For each card, attach detailed descriptions, mockups, diagrams or technical specifications relevant to the engineering task.
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/ad5d8d10-815c-4dc3-8a89-348f74d91594)
+
+##  Assign cards 
+
+For each card, assign ownership to a team member. This should make sense given the roles specified in the project proposal.
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/8b61e679-fc6d-4539-be93-15d23e428605)
+
+## Invite collaborators
+
+Invite the technical staff to be a collaborator on the Trello board so that each proposed task can be commented upon and moved into the approved column.
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/cc258cf8-5ab5-4b7b-9239-a4e189e850cf)
+
+## Set Due Dates
+
+For each task, based on priority and dependencies, assign a due date within the 2 week development window.
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/0780c57b-4624-479f-a06b-2808ebfdd98d)
+
+## Add a few mandatory tasks
+
+Include the following tasks to the “Approved” column:
+
+- Create presentation
+- Create project landing page
+- Write comprehensive README.md
+- Make demo of the project
+- Write blog post
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/d46e9806-5870-4913-8fd1-04e52dd75278)
+
+
 
