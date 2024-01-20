@@ -1,4 +1,70 @@
-# Research-and-Project-approval-Part-2
+# Research & Project approval (Part 1)
+
+> Portfolio project
+> Presentation
+
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/3cb9e7be-4519-4e3c-89e1-41ce1652c41e)
+
+* [Maze project](https://intranet.alxswe.com/concepts/133)
+* [Portfolio Project Overview](https://intranet.alxswe.com/concepts/137)
+
+You can Create a web service that uses [API](https://intranet.alxswe.com/rltoken/P5Ri2TnqqPOzWdRZEE1mEQ) (like a GitHub stats of an account, etc.)
+
+##  Share your project proposal!
+
+Share a link here to a Google Document where each of the following tasks are addressed.
+
+##  Team Members
+
+- What are the names of the team members?
+- What role will each person play in completing the project?
+-  Why have those roles been decided?
+
+## Technologies
+In a section named “Technologies”:
+
+- List the libraries, languages, platforms, frameworks, hardware, books, resources that will be necessary to complete your project.
+  
+- For 2 of these technology choices, describe another option and what were the trade-offs between the chosen technology and the alternate. Explain what led to the final decision to use a particular technology.
+
+##  Challenge statement
+
+In a section named “Challenge”:
+
+- Describe the problem the Portfolio Project is intended to solve.
+- Explain what the Portfolio Project will not solve
+- Explain who the Portfolio Project will help and/or who the users will be
+- Is this project relevant or dependent on a specific locale?
+
+## Risks
+
+In a section named “Risks”:
+
+- Describe the technical risks, the potential impact, and what safeguards or alternatives you have in mind
+  
+- Describe non-technical risks, the potential impact, and what strategies are in place to prevent these negative outcomes
+
+## Infrastructure
+
+In a section called “Infrastructure”:
+
+- Describe your process for branching and merging in your team’s repository (e.g. [GitHub flow](https://intranet.alxswe.com/rltoken/bQTzmtjVW4bSNUbo_WUj4g), [Picking the right branch-merge strategy](https://intranet.alxswe.com/rltoken/PH2jTmX2-3ye1iYY8Dbapw) )
+  
+- Describe your strategy for deployment
+  
+- Describe how you will populate your app with data
+  
+- Describe what tools, automation or process you will use for testing
+
+##  Existing Solutions
+
+In a section called “Existing Solutions”:
+
+- List any similar products or solutions that currently exist.
+
+- For each item in the list, explain similarities and differences
+
+# Research & Project approval (Part 2)
 
 > Group project
 > Portfolio project
