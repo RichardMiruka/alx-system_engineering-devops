@@ -10,8 +10,6 @@
 * [Maze project](https://intranet.alxswe.com/concepts/133)
 * [Portfolio Project Overview](https://intranet.alxswe.com/concepts/137)
 
-You can Create a web service that uses [API](https://intranet.alxswe.com/rltoken/P5Ri2TnqqPOzWdRZEE1mEQ) (like a GitHub stats of an account, etc.)
-
 ##  Share your project proposal!
 
 Share a link here to a Google Document where each of the following tasks are addressed.
