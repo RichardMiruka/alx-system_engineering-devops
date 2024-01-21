@@ -3,9 +3,9 @@
 > DevOps
 > SysAdmin
 
-[Google API infrastructure outage incident report](http://googledevelopers.blogspot.ca/2013/05/google-api-infrastructure-outage_3.html)
+![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/74bbdf16-f842-472e-83c1-c40d2cc11760)
 
-![image](https://github.com/RichardMiruka/alx-system_engineering-devops/assets/105627752/7ee5560d-c51d-4e9e-a662-f371314b15b5)
+[Google API infrastructure outage incident report](http://googledevelopers.blogspot.ca/2013/05/google-api-infrastructure-outage_3.html)
 
 A postmortem is a tool widely used in the tech industry. After any outage, the team(s) in charge of the system will write a summary that has 2 main goals:
 
