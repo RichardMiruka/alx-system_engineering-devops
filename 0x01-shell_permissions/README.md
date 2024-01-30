@@ -6,8 +6,8 @@
 
 ## Resources
 
-[Permissions](https://intranet.alxswe.com/rltoken/aQmRB6ms-SDHUhqY0Rsa3g)
-[Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
+* [Permissions](https://intranet.alxswe.com/rltoken/aQmRB6ms-SDHUhqY0Rsa3g)
+* [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 
 ## Learning Objectives
 
