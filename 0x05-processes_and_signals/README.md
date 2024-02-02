@@ -51,7 +51,6 @@ Each signal has a unique identifier and a predefined meaning, and it can be caug
 
 ## More to Read on
 
-
 * [more about Signals](https://intranet.alxswe.com/rltoken/BOU-KVNMqfKEIBo_VOI26A)
 * [ignoring shellcheck error](https://intranet.alxswe.com/rltoken/vErRT8QGU2bwJ6FLvPLzxw)
 * [&](https://intranet.alxswe.com/rltoken/R4YSgPT1k0PhWCrB0TYzoQ)
