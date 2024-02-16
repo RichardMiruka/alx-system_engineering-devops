@@ -26,4 +26,20 @@
 
 * [Front-End Interview Handbook](https://intranet.alxswe.com/rltoken/GSKNTDOjIvgaYV0IO1m18Q)
 
-* [A Very Comprehensive Guide to Front-End Interview Prep(https://intranet.alxswe.com/rltoken/WtO03Ej5ynCcskJUFuPEDg)
+* [A Very Comprehensive Guide to Front-End Interview Prep](https://intranet.alxswe.com/rltoken/WtO03Ej5ynCcskJUFuPEDg)
+
+## SRE specific
+
+*[SRE Interview Prep Stuff.pdf](https://intranet.alxswe.com/rltoken/ko-TLSJgrVyMx9hdyLQzyg) (shhh, remember to keep it solely in the HBTN fam)
+
+* [Guide to Getting into SRE](https://intranet.alxswe.com/rltoken/gr6pAv_Deno-U6WFuwmiBw) by [Tammy Butow](https://intranet.alxswe.com/rltoken/3NHt7T20cDiwyGz9RY-4qA)
+
+* [SRE Interview Questions](https://intranet.alxswe.com/rltoken/Cks6GnOBCzXgko6wer431Q)
+
+## Project Management
+
+* [AirTable](https://intranet.alxswe.com/rltoken/EDXlbnZR1GD9EVmsWVEyvw)
+
+* [Jira](https://intranet.alxswe.com/rltoken/BgAoCW7tTDqP5hqfybN_qg)
+
+* [Asana](https://intranet.alxswe.com/rltoken/onn6ZrPzoI66BjCnDPWhRw) [Trello](https://intranet.alxswe.com/rltoken/_b-HmMw-bZHk68bSSA0uVw)
